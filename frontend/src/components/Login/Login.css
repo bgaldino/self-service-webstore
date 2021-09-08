@@ -1,0 +1,16 @@
+.login-wrapper {
+  display: flex;
+  width: 100vw;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.login-form {
+  width: 20vw;
+}
+
+.login-button {
+  background-color: rgb(0, 112, 210);
+}
