@@ -103,7 +103,7 @@ export default function Assets({ setCart, cart }) {
           }
         }, 2000);
       })
-      .catch((error) => console.log("error", error + raw));
+      .catch((error) => console.log("error", error));
     handleDialogClose();
   };
 
