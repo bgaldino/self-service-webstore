@@ -69,8 +69,8 @@ export default function Assets({ setCart, cart }) {
       cancellationDate: moment
         .utc(date, "MM-DD-YYYY")
         .add(1, "days")
-        .format("YYYY-MM-DDTHH:mm:ss.SSS[Z]")
-      //cancellationOutputType: 'Order',
+        .format("YYYY-MM-DDTHH:mm:ss.SSS[Z]"),
+      cancellationOutputType: 'Order',
     });
 
     let requestOptions = {
@@ -104,7 +104,7 @@ export default function Assets({ setCart, cart }) {
           }
         }, 2000);
       })
-      .catch((error) => console.log("error", error + raw));
+      .catch((error) => console.log("error", error));
     handleDialogClose();
   };
 
