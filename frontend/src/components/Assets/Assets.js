@@ -59,6 +59,7 @@ export default function Assets({ setCart, cart }) {
 
   // Execute the cancellation operation
   const handleCancel = async () => {
+    alert("Whoo Hoo");
     let requestHeaders = new Headers();
     requestHeaders.append("X-Requested-With", "XMLHttpRequest");
     requestHeaders.append("Authorization", "Bearer " + token);
