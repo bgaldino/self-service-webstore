@@ -87,7 +87,9 @@ export default function Assets({ setCart, cart }) {
     )
       .then((response) => response.text())
       .then(async (result) => {
+        alert(result);
         let id = JSON.parse(result).requestId;
+        alert(id);
         let timer = setInterval(() => {
           if (events.has(id)) {
             clearInterval(timer);
