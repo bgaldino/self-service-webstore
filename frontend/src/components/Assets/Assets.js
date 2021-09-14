@@ -72,7 +72,7 @@ export default function Assets({ setCart, cart }) {
         .format("YYYY-MM-DDTHH:mm:ss.SSS[Z]")
       //cancellationOutputType: 'Order',
     });
-
+    console.log('JSON' + raw);
     let requestOptions = {
       method: "POST",
       headers: requestHeaders,
