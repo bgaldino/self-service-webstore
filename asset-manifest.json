@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/self-service-webstore/static/css/main.2074fed2.chunk.css",
-    "main.js": "/self-service-webstore/static/js/main.80668e81.chunk.js",
-    "main.js.map": "/self-service-webstore/static/js/main.80668e81.chunk.js.map",
+    "main.js": "/self-service-webstore/static/js/main.284728f3.chunk.js",
+    "main.js.map": "/self-service-webstore/static/js/main.284728f3.chunk.js.map",
     "runtime-main.js": "/self-service-webstore/static/js/runtime-main.ed55b19c.js",
     "runtime-main.js.map": "/self-service-webstore/static/js/runtime-main.ed55b19c.js.map",
     "static/css/2.058fa3a9.chunk.css": "/self-service-webstore/static/css/2.058fa3a9.chunk.css",
     "static/js/2.edfa9567.chunk.js": "/self-service-webstore/static/js/2.edfa9567.chunk.js",
     "static/js/2.edfa9567.chunk.js.map": "/self-service-webstore/static/js/2.edfa9567.chunk.js.map",
     "index.html": "/self-service-webstore/index.html",
-    "precache-manifest.99481e576cfd7807adf7fcf288c1bf92.js": "/self-service-webstore/precache-manifest.99481e576cfd7807adf7fcf288c1bf92.js",
+    "precache-manifest.ef2aeec178ab3d78c765628a8bf1fb17.js": "/self-service-webstore/precache-manifest.ef2aeec178ab3d78c765628a8bf1fb17.js",
     "service-worker.js": "/self-service-webstore/service-worker.js",
     "static/css/2.058fa3a9.chunk.css.map": "/self-service-webstore/static/css/2.058fa3a9.chunk.css.map",
     "static/css/main.2074fed2.chunk.css.map": "/self-service-webstore/static/css/main.2074fed2.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.058fa3a9.chunk.css",
     "static/js/2.edfa9567.chunk.js",
     "static/css/main.2074fed2.chunk.css",
-    "static/js/main.80668e81.chunk.js"
+    "static/js/main.284728f3.chunk.js"
   ]
 }
