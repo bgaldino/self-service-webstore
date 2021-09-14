@@ -72,7 +72,7 @@ export default function Assets({ setCart, cart }) {
         .add(1, "days")
         .format("YYYY-MM-DDTHH:mm:ss.SSS[Z]")
     });
-
+    alert(raw);
     let requestOptions = {
       method: "POST",
       headers: requestHeaders,
