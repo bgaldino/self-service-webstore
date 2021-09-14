@@ -72,19 +72,18 @@ export default function Assets({ setCart, cart }) {
         .format("YYYY-MM-DDTHH:mm:ss.SSS[Z]")
       //cancellationOutputType: 'Order',
     });
-    console.log('JSON' + raw);
     let requestOptions = {
       method: "POST",
       headers: requestHeaders,
       body: raw,
       redirect: "follow",
     };
-
     // API call to initiate the cancellation flow
     await fetch(
       `${BASE_URL}/asset-management/assets/collection/actions/initiate-cancellation`,
       requestOptions
     )
+
       .then((response) => response.text())
       .then(async (result) => {
         let id = JSON.parse(result).requestId;
@@ -104,7 +103,7 @@ export default function Assets({ setCart, cart }) {
           }
         }, 2000);
       })
-      .catch((error) => console.log("error", error));
+      .catch((error) => console.log("error", error + raw));
     handleDialogClose();
   };
 
