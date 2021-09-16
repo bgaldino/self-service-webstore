@@ -376,7 +376,7 @@ export default function Assets({ setCart, cart }) {
                                     position: "absolute",
                                     top: "10%",
                                     right: "5%",
-                                    backgroundColor: "#13334C",
+                                    backgroundColor: "#7e7e7e",
                                   }}
                                   id={"db" + asset.Id}
                                   node="button"
