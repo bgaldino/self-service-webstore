@@ -10,8 +10,8 @@ export default function OrderConfirmation() {
   return (
     <div className="container">
       <div className="order-header">
-      <img className="header-image" src={smartbytes}/>
         <div style={{ 'padding-left': '1em' }}>
+        <img className="header-image" src={smartbytes}/>
           <h4>Order Confirmation #{orderId}</h4>
           <h5>Thank you for your order!</h5>
         </div>

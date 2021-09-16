@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import PropTypes from "prop-types";
 
 import "./Login.css";
+import smartbytes from "../../images/smartbytes.png"
+
 
 // Used to log in the user by fetching the token
 async function loginUser(credentials) {
