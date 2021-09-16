@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/self-service-webstore/static/css/main.c5989265.chunk.css",
-    "main.js": "/self-service-webstore/static/js/main.a2ed9ab8.chunk.js",
-    "main.js.map": "/self-service-webstore/static/js/main.a2ed9ab8.chunk.js.map",
+    "main.js": "/self-service-webstore/static/js/main.7533c114.chunk.js",
+    "main.js.map": "/self-service-webstore/static/js/main.7533c114.chunk.js.map",
     "runtime-main.js": "/self-service-webstore/static/js/runtime-main.ed55b19c.js",
     "runtime-main.js.map": "/self-service-webstore/static/js/runtime-main.ed55b19c.js.map",
     "static/css/2.058fa3a9.chunk.css": "/self-service-webstore/static/css/2.058fa3a9.chunk.css",
-    "static/js/2.bf1bcc9d.chunk.js": "/self-service-webstore/static/js/2.bf1bcc9d.chunk.js",
-    "static/js/2.bf1bcc9d.chunk.js.map": "/self-service-webstore/static/js/2.bf1bcc9d.chunk.js.map",
+    "static/js/2.364598b3.chunk.js": "/self-service-webstore/static/js/2.364598b3.chunk.js",
+    "static/js/2.364598b3.chunk.js.map": "/self-service-webstore/static/js/2.364598b3.chunk.js.map",
     "index.html": "/self-service-webstore/index.html",
-    "precache-manifest.3fca3df9403f0c191dcac5defbd66f7e.js": "/self-service-webstore/precache-manifest.3fca3df9403f0c191dcac5defbd66f7e.js",
+    "precache-manifest.24722a379f2a79d0b4abbbd137bf1327.js": "/self-service-webstore/precache-manifest.24722a379f2a79d0b4abbbd137bf1327.js",
     "service-worker.js": "/self-service-webstore/service-worker.js",
     "static/css/2.058fa3a9.chunk.css.map": "/self-service-webstore/static/css/2.058fa3a9.chunk.css.map",
     "static/css/main.c5989265.chunk.css.map": "/self-service-webstore/static/css/main.c5989265.chunk.css.map",
-    "static/js/2.bf1bcc9d.chunk.js.LICENSE.txt": "/self-service-webstore/static/js/2.bf1bcc9d.chunk.js.LICENSE.txt",
+    "static/js/2.364598b3.chunk.js.LICENSE.txt": "/self-service-webstore/static/js/2.364598b3.chunk.js.LICENSE.txt",
     "static/media/amex.png": "/self-service-webstore/static/media/amex.57476e8f.png",
     "static/media/demoAnalytics.png": "/self-service-webstore/static/media/demoAnalytics.852b0f17.png",
     "static/media/diners.png": "/self-service-webstore/static/media/diners.fa6db1cf.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.ed55b19c.js",
     "static/css/2.058fa3a9.chunk.css",
-    "static/js/2.bf1bcc9d.chunk.js",
+    "static/js/2.364598b3.chunk.js",
     "static/css/main.c5989265.chunk.css",
-    "static/js/main.a2ed9ab8.chunk.js"
+    "static/js/main.7533c114.chunk.js"
   ]
 }
