@@ -99,3 +99,6 @@ div.user-info {
   top: auto;
   right: auto;
 }
+nav ul a {
+  color:black;
+}
