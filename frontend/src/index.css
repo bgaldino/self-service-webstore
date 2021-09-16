@@ -26,7 +26,7 @@
   width: 100%;
   border-top-left-radius: 2vh;
   border-bottom-right-radius: 2vh;
-  background-color: rgb(69, 185, 255);
+  background-color: rgb(255, 190, 69);
 }
 .card-image {
   width: 30%;
@@ -35,7 +35,7 @@
 }
 .page-header {
   /*margin-top: -60px;*/
-  background-color: #005878;
+  background-color: #FFFFFF;
   min-height: 120px;
   color: #FFFFFF;
   border-radius: 10px;
@@ -75,7 +75,7 @@ body {
   background-color: #E4E8EC;
 }
 div.MuiDrawer-paper {
-  background-color: #e68200;
+  background-color: rgb(255, 190, 69);
 }
 hr.MuiDivider-root {
   background-color: #4E8098;
