@@ -11,6 +11,7 @@ import MuiAlert from "@material-ui/lab/Alert";
 
 import useToken from "./useToken";
 import analytics from "../images/demoAnalytics.png";
+import smartbytes from "../images/smartbytes.png"
 import ownedImg from "../images/owned.png";
 
 const TERM_DEFINED = "TermDefined";
@@ -357,7 +358,7 @@ export default function Home({ setCart, cart }) {
     <div className="container">
       <div className="page-header">
         <div style={{'padding-left': '1em'}}><h5>Store</h5>Hello {localStorage.getItem('userName')}, welcome to SmartBytes web store.</div>
-        <img className="header-image" src={analytics}/>
+        <img className="header-image" src={smartbytes}/>
       </div>
       <h5 className="center" style={{ marginTop: "3%" }}>
         Products
