@@ -357,9 +357,9 @@ export default function Home({ setCart, cart }) {
   return (
     <div className="container">
       <div className="page-header">
-        <div style={{'padding-left': '1em'}}><h5>Store</h5>Hello {localStorage.getItem('userName')}, welcome to SmartBytes web store.</div>
         <img className="header-image" src={smartbytes}/>
       </div>
+      <div style={{'padding-left': '1em'}}><h5>Store</h5>Hello {localStorage.getItem('userName')}, welcome to SmartBytes web store.</div>
       <h5 className="center" style={{ marginTop: "3%" }}>
         Products
       </h5>
