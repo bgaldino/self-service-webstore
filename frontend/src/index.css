@@ -94,7 +94,8 @@ div.user-info {
 }
 .header-image {
   height: 105px;
-  position: relative;
-  top: 0px;
-  right: 0px;
+  /*position: relative;*/
+  display:block;
+  top: auto;
+  right: auto;
 }
