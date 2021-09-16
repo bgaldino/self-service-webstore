@@ -13,6 +13,7 @@ import DatePicker from "react-date-picker";
 import io from "socket.io-client";
 import loadingImg from "../../images/loading.gif";
 import ownedImg from "../../images/owned.png";
+import smartbytes from "../../images/smartbytes.png"
 import "./Assets.css";
 
 const TERM_DEFINED = "TermDefined";
@@ -248,7 +249,7 @@ export default function Assets({ setCart, cart }) {
               <h5>What I Own</h5>
               See the list of your assets, and make changes to them.
             </div>
-            <img className="header-image" src={ownedImg}/>
+            <img className="header-image" src={smartbytes}/>
           </div>
           {assets.length === 0 ? (
             <h5 style={{ textAlign: "center" }}>No products found.</h5>

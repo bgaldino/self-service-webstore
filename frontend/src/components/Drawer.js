@@ -89,7 +89,7 @@ function ResponsiveDrawer(props) {
 
     const drawer = (
         <div>
-            <div className={classes.toolbar} class="center" style={{color: '#7e7e7e','line-height': '40px'}}>
+            <div className={classes.toolbar} class="center" style={{color: '#ffffff','line-height': '40px'}}>
                 <h4>SmartBytes</h4>
                 <img src="https://copa.s3.us-east-1.amazonaws.com/profile.png" height="120px" width="120px" class="user-icon"/>
                 <div class="user-info">{userName}</div>
