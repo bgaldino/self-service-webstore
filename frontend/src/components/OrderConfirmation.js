@@ -8,7 +8,7 @@ export default function OrderConfirmation() {
 
   return (
     <div className="container">
-      <div className="page-header">
+      <div className="order-header">
         <div style={{ 'padding-left': '1em' }}>
           <h4>Order Confirmation #{orderId}</h4>
           <h5>Thank you for your order!</h5>

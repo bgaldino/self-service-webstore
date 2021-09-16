@@ -44,6 +44,18 @@
   position: relative;
   margin-bottom: 1em;
 }
+
+.order-header {
+  /*margin-top: -60px;*/
+  background-color: #FFFFFF;
+  min-height: 120px;
+  color: #7e7e7e;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-bottom: 1em;
+}
 .cart-col {
   width: 30%;
 }
