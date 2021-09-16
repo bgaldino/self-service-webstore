@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/self-service-webstore/static/css/main.b8ee3a11.chunk.css",
+    "main.css": "/self-service-webstore/static/css/main.653c70d0.chunk.css",
     "main.js": "/self-service-webstore/static/js/main.d0af6efa.chunk.js",
     "main.js.map": "/self-service-webstore/static/js/main.d0af6efa.chunk.js.map",
     "runtime-main.js": "/self-service-webstore/static/js/runtime-main.ed55b19c.js",
@@ -9,10 +9,10 @@
     "static/js/2.df25b8e0.chunk.js": "/self-service-webstore/static/js/2.df25b8e0.chunk.js",
     "static/js/2.df25b8e0.chunk.js.map": "/self-service-webstore/static/js/2.df25b8e0.chunk.js.map",
     "index.html": "/self-service-webstore/index.html",
-    "precache-manifest.bfba74463bab80ba338ee747581323ff.js": "/self-service-webstore/precache-manifest.bfba74463bab80ba338ee747581323ff.js",
+    "precache-manifest.55fb6f5fc46884bd19469b0fa1cb45d3.js": "/self-service-webstore/precache-manifest.55fb6f5fc46884bd19469b0fa1cb45d3.js",
     "service-worker.js": "/self-service-webstore/service-worker.js",
     "static/css/2.058fa3a9.chunk.css.map": "/self-service-webstore/static/css/2.058fa3a9.chunk.css.map",
-    "static/css/main.b8ee3a11.chunk.css.map": "/self-service-webstore/static/css/main.b8ee3a11.chunk.css.map",
+    "static/css/main.653c70d0.chunk.css.map": "/self-service-webstore/static/css/main.653c70d0.chunk.css.map",
     "static/js/2.df25b8e0.chunk.js.LICENSE.txt": "/self-service-webstore/static/js/2.df25b8e0.chunk.js.LICENSE.txt",
     "static/media/amex.png": "/self-service-webstore/static/media/amex.57476e8f.png",
     "static/media/demoAnalytics.png": "/self-service-webstore/static/media/demoAnalytics.852b0f17.png",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.ed55b19c.js",
     "static/css/2.058fa3a9.chunk.css",
     "static/js/2.df25b8e0.chunk.js",
-    "static/css/main.b8ee3a11.chunk.css",
+    "static/css/main.653c70d0.chunk.css",
     "static/js/main.d0af6efa.chunk.js"
   ]
 }
