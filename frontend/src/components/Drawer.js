@@ -100,6 +100,7 @@ function ResponsiveDrawer(props) {
                 {[
                     {label: 'Store', url: '/'},
                     {label: 'What I Own', url: '/assets'},
+                    {label: 'Trials', url: '/'},
                     {label: 'Cart (' + cartTotal + ')', url: '/cart'}
                 ].map((item, index) => (
                     <Link to={item.url}>
