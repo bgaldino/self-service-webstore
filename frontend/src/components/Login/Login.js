@@ -74,6 +74,7 @@ export default function Login({ setToken }) {
 
   return (
     <div className="login-wrapper">
+      <img className="header-image" src={smartbytes}/>
       <h3>Sign in</h3>
       <form className="login-form" onSubmit={handleSubmit}>
         <div className="login-inputs">
