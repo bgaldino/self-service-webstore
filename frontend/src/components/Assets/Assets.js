@@ -60,7 +60,7 @@ export default function Assets({ setCart, cart }) {
 
   // Execute the cancellation operation
   const handleCancel = async () => {
-    alert("Whoo Hoo");
+    //alert("Whoo Hoo");
     let requestHeaders = new Headers();
     requestHeaders.append("X-Requested-With", "XMLHttpRequest");
     requestHeaders.append("Authorization", "Bearer " + token);
@@ -73,7 +73,7 @@ export default function Assets({ setCart, cart }) {
         .add(1, "days")
         .format("YYYY-MM-DDTHH:mm:ss.SSS[Z]")
     });
-    alert(raw);
+    //alert(raw);
     let requestOptions = {
       method: "POST",
       headers: requestHeaders,
@@ -88,9 +88,9 @@ export default function Assets({ setCart, cart }) {
     )
       .then((response) => response.text())
       .then(async (result) => {
-        alert(result);
+        //alert(result);
         let id = JSON.parse(result).requestId;
-        alert(id);
+        //alert(id);
         let timer = setInterval(() => {
           if (events.has(id)) {
             clearInterval(timer);
