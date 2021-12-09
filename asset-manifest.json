@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/self-service-webstore/static/css/main.c5989265.chunk.css",
-    "main.js": "/self-service-webstore/static/js/main.639ee71b.chunk.js",
-    "main.js.map": "/self-service-webstore/static/js/main.639ee71b.chunk.js.map",
+    "main.css": "/self-service-webstore/static/css/main.c194163b.chunk.css",
+    "main.js": "/self-service-webstore/static/js/main.c956674e.chunk.js",
+    "main.js.map": "/self-service-webstore/static/js/main.c956674e.chunk.js.map",
     "runtime-main.js": "/self-service-webstore/static/js/runtime-main.ed55b19c.js",
     "runtime-main.js.map": "/self-service-webstore/static/js/runtime-main.ed55b19c.js.map",
-    "static/css/2.058fa3a9.chunk.css": "/self-service-webstore/static/css/2.058fa3a9.chunk.css",
-    "static/js/2.364598b3.chunk.js": "/self-service-webstore/static/js/2.364598b3.chunk.js",
-    "static/js/2.364598b3.chunk.js.map": "/self-service-webstore/static/js/2.364598b3.chunk.js.map",
+    "static/css/2.acdb41b8.chunk.css": "/self-service-webstore/static/css/2.acdb41b8.chunk.css",
+    "static/js/2.1b37723f.chunk.js": "/self-service-webstore/static/js/2.1b37723f.chunk.js",
+    "static/js/2.1b37723f.chunk.js.map": "/self-service-webstore/static/js/2.1b37723f.chunk.js.map",
     "index.html": "/self-service-webstore/index.html",
-    "precache-manifest.344239247e789a07d84ff5e4f01fbe49.js": "/self-service-webstore/precache-manifest.344239247e789a07d84ff5e4f01fbe49.js",
+    "precache-manifest.484fdf03647c903e37d0f81d071ece2c.js": "/self-service-webstore/precache-manifest.484fdf03647c903e37d0f81d071ece2c.js",
     "service-worker.js": "/self-service-webstore/service-worker.js",
-    "static/css/2.058fa3a9.chunk.css.map": "/self-service-webstore/static/css/2.058fa3a9.chunk.css.map",
-    "static/css/main.c5989265.chunk.css.map": "/self-service-webstore/static/css/main.c5989265.chunk.css.map",
-    "static/js/2.364598b3.chunk.js.LICENSE.txt": "/self-service-webstore/static/js/2.364598b3.chunk.js.LICENSE.txt",
+    "static/css/2.acdb41b8.chunk.css.map": "/self-service-webstore/static/css/2.acdb41b8.chunk.css.map",
+    "static/css/main.c194163b.chunk.css.map": "/self-service-webstore/static/css/main.c194163b.chunk.css.map",
+    "static/js/2.1b37723f.chunk.js.LICENSE.txt": "/self-service-webstore/static/js/2.1b37723f.chunk.js.LICENSE.txt",
     "static/media/amex.png": "/self-service-webstore/static/media/amex.57476e8f.png",
     "static/media/demoAnalytics.png": "/self-service-webstore/static/media/demoAnalytics.852b0f17.png",
     "static/media/diners.png": "/self-service-webstore/static/media/diners.fa6db1cf.png",
@@ -25,9 +25,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ed55b19c.js",
-    "static/css/2.058fa3a9.chunk.css",
-    "static/js/2.364598b3.chunk.js",
-    "static/css/main.c5989265.chunk.css",
-    "static/js/main.639ee71b.chunk.js"
+    "static/css/2.acdb41b8.chunk.css",
+    "static/js/2.1b37723f.chunk.js",
+    "static/css/main.c194163b.chunk.css",
+    "static/js/main.c956674e.chunk.js"
   ]
 }
